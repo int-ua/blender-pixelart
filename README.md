@@ -1,6 +1,8 @@
 # blender-pixelart
 Blender templates to render pixelart
 
+<img src="./img/hammer.png" alt="">
+
 ### Basics of rendering
 
  * Copy a template you need, so that you have an empty one when you need another.
@@ -22,5 +24,7 @@ Blender templates to render pixelart
 FakeReduceBits node group by aliasguru https://blender.stackexchange.com/a/90949
 
 Originally developed for filling UltiCa tileset for Cataclysm Dark Days Ahead https://github.com/I-am-Erk/CDDA-Tilesets/
+
+Used hammer model by hdvdeargentina https://sketchfab.com/3d-models/free-tools-bfc817e59a5f496b9a0a6e4ec1d5a32d
 
 Please consider crediting this project when you release rendered images.
