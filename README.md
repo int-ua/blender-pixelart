@@ -1,7 +1,7 @@
 # blender-pixelart
 Blender templates to render pixelart.
 
-Supported blender versions: 2.8x
+Supported Blender versions: 2.8x
 
 Renderer: Eevee
 
@@ -9,7 +9,7 @@ Renderer: Eevee
 
 ### Basics of rendering
 
- * Copy a template you need, so that you have an empty one when you need another.
+ * Copy a template you need in a folder where you have a copy of respective `lib_*.blend` file, so that you have an empty one when you need another.
  * Add a model:
     * File > Import
     * Paste from another blender instance
