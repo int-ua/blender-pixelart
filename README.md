@@ -1,5 +1,9 @@
 # blender-pixelart
-Blender templates to render pixelart
+Blender templates to render pixelart.
+
+Supported blender versions: 2.8x
+
+Renderer: Eevee
 
 <img src="./img/hammer.png" alt="">
 
