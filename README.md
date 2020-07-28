@@ -3,7 +3,7 @@ Blender templates to render pixelart.
 
 Supported Blender versions: 2.8x
 
-Renderer: Eevee
+Render engine: Eevee
 
 <img src="./img/hammer.png" alt="">
 
