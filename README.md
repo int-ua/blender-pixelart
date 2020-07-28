@@ -18,6 +18,7 @@ Blender templates to render pixelart
     * Node groups inputs in compositing
  * When some part of the model is not sized appropriately, try either moving it a bit considering the grid on the camera so that it takes more or less space in certain output pixels or even separating a thin part and adding a Solidify modifier to make it thicker.
  * Due to camera angle, Z rotation of the model that makes it diagonally placed in the render is not 45° but somewhere around 36°.
+ * The easiest way to disable a node group in compositing is muting it with M keyboard shortcut.
 
 ### Credits
 
