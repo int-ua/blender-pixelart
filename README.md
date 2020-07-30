@@ -1,5 +1,5 @@
 # blender-pixelart
-Blender templates to render pixelart.
+Blender templates to render pixel art.
 
 Supported Blender versions: 2.8x
 
@@ -12,7 +12,7 @@ Render engine: Eevee
  * Copy a template you need in a folder where you have a copy of respective `lib_*.blend` file, so that you have an empty one when you need another.
  * Add a model:
     * File > Import
-    * Paste from another blender instance
+    * Paste from another Blender instance
     * Model yourself
  * When you are satisfied with position, rotation and scale in the camera view, hit F12 to render and then Alt+S to save the image when it's ready.
  * Settings to tweak when results are not satisfying:
@@ -21,7 +21,7 @@ Render engine: Eevee
     * Freestyle (you can have different styles at least per model)
     * Node groups inputs in compositing
  * When some part of the model is not sized appropriately, try either moving it a bit considering the grid on the camera so that it takes more or less space in certain output pixels or even separating a thin part and adding a Solidify modifier to make it thicker.
- * Due to camera angle, Z rotation of the model that makes it diagonally placed in the render is not 45° but somewhere around 36°.
+ * Due to camera angle, Z rotation of the model that makes it diagonally placed in the render is not 45° but ~~somewhere around 36°~~ 35.264° https://blender.stackexchange.com/a/139478/1958
  * The easiest way to disable a node group in compositing is muting it with M keyboard shortcut.
 
 ### Credits
