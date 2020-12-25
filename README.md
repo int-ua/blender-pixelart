@@ -1,7 +1,7 @@
 # blender-pixelart
 Blender templates to render pixel art.
 
-Supported Blender versions: 2.8x
+Supported Blender versions: 2.8x, 2.9x
 
 Render engine: Eevee
 
